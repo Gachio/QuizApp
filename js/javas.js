@@ -184,12 +184,12 @@ function getScore() {
   const process = [
     {
       question: "what is the capital of nigeria?",
-      validator: nigeria,
+      validator: abuja,
       points: 100
     },
     {
       question: "what is the capital of namibia?",
-      validator: namibia,
+      validator: windhoek,
       points: 100
     },
     {
